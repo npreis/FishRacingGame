@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame_/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame_/Content/Blueprints/MainMenu.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame_/Content/Blueprints/PlayerUI.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame_/Content/Blueprints/PlayerLeaderboard.uasset",
 				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
