@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenu.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/FG_MainMenu_Controller.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuGameMode.uasset"
 			]
 		}
 	]
