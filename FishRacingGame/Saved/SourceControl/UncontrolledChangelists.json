@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenu.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/FG_MainMenu_Controller.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuGameMode.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/PlayerUI.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/NK/FIB6U3T50DYJK5TVNC4WJZ.uasset",
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -18,11 +24,7 @@
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2R/7T4ZDSXUYHX2ZQPPZY2ABF.uasset",
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XH/SASSUZNMUBOCSC035OFZ66.uasset",
-				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Q1/CS3ITJG7TFC1VA16YBE0D2.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenu.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/FG_MainMenu_Controller.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuGameMode.uasset"
+				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Q1/CS3ITJG7TFC1VA16YBE0D2.uasset"
 			]
 		}
 	]
