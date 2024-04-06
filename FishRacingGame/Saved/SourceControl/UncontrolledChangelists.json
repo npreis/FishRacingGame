@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenu.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/FG_MainMenu_Controller.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuPawn.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuGameMode.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/PlayerUI.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/Tutorial.uasset",
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/LevelPrototyping/Materials/UnderwaterPostProcess.uasset",
 				"C:/Users/sbray/Desktop/Github/GameJam/FishRacingGame/FishRacingGame/Content/LevelPrototyping/Materials/MI_UnderwaterPostProcess.uasset",
@@ -45,11 +51,7 @@
 				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/LevelPrototyping/Materials/FR_MAT/MaterialFunction/MF_Water_Wetness.uasset",
 				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/Import/Materials/Function/MF_Water_Wetness.uasset",
 				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/LevelPrototyping/Materials/FR_MAT/MaterialInstance/MI_WaterSerface.uasset",
-				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OT/5RD5QLYL25PKKEJU6L0B5J.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenu.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/FG_MainMenu_Controller.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuPawn.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/MainMenuGameMode.uasset"
+				"D:/GameDev/FishGame_GameJam/Repo/FishRacingGame/FishRacingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OT/5RD5QLYL25PKKEJU6L0B5J.uasset"
 			]
 		}
 	]
