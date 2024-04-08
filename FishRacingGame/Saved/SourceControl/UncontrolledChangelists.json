@@ -8,11 +8,13 @@
 				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/ThirdPerson/Input/Actions/IA_Reset.uasset",
 				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/ResetGame.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/ThirdPerson/Input/Actions/IA_Quit.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/Tutorial.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/PlayerUI.uasset",
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/VictoryScreen.uasset",
 				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/ResetController.uasset",
 				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/ResetGameMode.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/ResetPawn.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/ThirdPerson/Input/Actions/IA_Quit.uasset",
-				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/Tutorial.uasset"
+				"D:/Dev Kits and Games Made/Unreal Projects/FishRacingGame/FishRacingGame/Content/UIBlueprints/ResetPawn.uasset"
 			]
 		}
 	]
